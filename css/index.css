@@ -1,0 +1,35 @@
+
+	.nav {
+                width: 50%;
+                height: 60px;
+                margin: auto;
+             font-family: 'Knewave', cursive;
+                font-size: 45px;
+                word-spacing: 70px;
+				}
+    .content {
+                width: 50%;
+                margin: auto;
+             font-family: 'Knewave', cursive;
+			  padding: 3px;
+            }
+    .footer {
+                margin-top: 15px;
+			font-family: 'Knewave', cursive;
+                padding: 10px;
+			}
+			
+	.button{
+ text-decoration:none; 
+ text-align:center; 
+ padding:10px 100px; 
+ border:solid 5px #0faabf; 
+  
+ font:50px 'Knewave', cursive;
+ font-weight:bold; 
+ color:#0fafcf; 
+ background: rgba( 255, 0, 0, 0); 
+ -webkit-box-shadow:0px 0px 2px #0fd6cf, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #0fd6cf,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #0fd6cf, inset 0px 0px 1px #ffffff;  
+  }
